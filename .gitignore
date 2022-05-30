@@ -351,3 +351,6 @@ MigrationBackup/
 
 obj/
 bin/
+.vs/
+StormLibSharp/bin/x86/Debug/net5.0/
+StormLibSharp/obj
